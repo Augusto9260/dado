@@ -1,0 +1,20 @@
+@charset 'UTF-8';
+body {
+	text-align: center;
+}
+div#resultado {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	margin: auto;
+}
+div#resultado-um {
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	margin: auto;
+}
+button {
+	padding: 10px;
+	margin: 10px;
+}
